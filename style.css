@@ -1,0 +1,44 @@
+.heading
+{
+    font-size: 27px;
+    font-family: 'Nosifer', sans-serif;
+    width: 80%;
+    margin-top: 40px;
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    border-style:groove;
+    border-width: 6px;
+    background-color: white;
+    color: black;
+    box-shadow: -8px 8px 10px rgb(161, 88, 19), 7px -7px 12px rgb(255, 162, 0);
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body
+{
+    background-size: cover;
+}
+
+#song_name
+{
+    font-size: 23px;
+    color: white;
+    margin: 15px;
+    background-color: black;
+    border-color: white;
+    box-shadow: 7px 7px 10px rgb(21, 147, 185), -8px -8px 12px rgb(0, 162, 255);
+    border-style:groove;
+    border-width: 4px;
+}
+
+canvas
+{
+    margin-top: 100px;
+    padding-top: 40px;
+}
